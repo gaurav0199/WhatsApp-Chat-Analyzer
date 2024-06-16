@@ -36,4 +36,4 @@ Efficiently analyze WhatsApp chat data for sentiment, trends, and user interacti
 
 Execute the script to analyze your WhatsApp chat data:
 ```sh
-python app.py
+streamlit run app.py
